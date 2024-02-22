@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Smart_lock</string>
+    <string name="welcome_to_smart_lock">Welcome to Smart Lock</string>
+    <string name="creat_your_account">Creat your account</string>
+    <string name="you_dont_have_account">You dont have account? </string>
+    <string name="sign_up">Sign up</string>
+    <string name="sign_in">Sign in</string>
+    <string name="agree_with_policy">Agree with policy</string>
+    <string name="open_door">Open door</string>
+    <string name="set_pin_code">Set pin code</string>
+    <string name="enter_pin_code">Enter pin code</string>
+    <string name="ok">OK</string>
+    <string name="next">Next</string>
+    <string name="verify">Verify</string>
+    <string name="setting">Setting</string>
+    <string name="support">Support</string>
+    <string name="log_out">Log out</string>
+</resources>
